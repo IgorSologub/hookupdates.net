@@ -90,7 +90,9 @@ public class Constant {
                 "WeMeetToday.com",
                 "NaughtyDate",
                 "MeetWild",
-                "BigoFun"
+                "BigoFun",
+                "hot girls",
+                "Best dating worldwide"
         );
         public static final int NUMBER_OF_DOWNLOAD_APP_REG_BUTTONS = 5;
         public static final int NUMBER_OF_VISIT_SITE_REG_BUTTONS = 24;
