@@ -135,7 +135,8 @@ public class Constant {
                 "FlirtyMature",
                 "Swinger",
                 "Sex",
-                "Naughty"
+                "Naughty",
+                "Rencontres"
         );
         public static final List<String> AUTHORS_TITLES = Arrays.asList(
                 "Lisa",
