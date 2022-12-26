@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HookupDatesNet" />
+        <module name="hookupdates.net" />
       </profile>
     </annotationProcessing>
   </component>
